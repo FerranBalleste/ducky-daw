@@ -12,6 +12,7 @@ import Features from './components/Features.vue';
         <h2 class="text-xl text-gray-500 italic ">3D Product Web Page example with
           <b class="font-bold">ThreeJS</b> and
           <b class="font-bold">WebGL</b>.
+          <b class="font-bold">WebGL</b>.
         </h2>
         <button
           class="bg-white hover:bg-gray-100 text-gray-800 font-semibold py-2 px-4 border border-gray-400 rounded shadow-md w-36">
